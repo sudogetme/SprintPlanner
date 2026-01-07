@@ -1,5 +1,4 @@
-<script>
-    // Role Configuration Logic
+ // Role Configuration Logic
     const ROLES = {
         DEVELOPER: { 
             id: 'developer', 
@@ -243,4 +242,3 @@
     // Init
     addDeveloper();
     addDeveloper();
-</script>
